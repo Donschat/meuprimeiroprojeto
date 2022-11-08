@@ -1,0 +1,51 @@
+<style>
+*{
+    padding-left: 0;
+    margin-left: 0;
+}
+p {
+    background-color: rgba(255, 68, 0, 0.767);
+}
+h3 {
+    background-color: rgba(255, 68, 0, 0.801);
+    margin-left: 5px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.image {
+    flex-basis: 20%;
+}
+.text {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: right
+}
+.image2 {
+    flex-basis: 20%;
+}
+.text2 {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.button{
+    opacity: 90%;
+    background-color: rgba(247, 70, 6, 0.808);
+    color: aliceblue;
+    border-radius:20%;
+    text-align: center;
+    border-color: currentColor;
+    width: fit-content;
+    font-style: italic;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+</style>
